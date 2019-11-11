@@ -1,3 +1,3 @@
 # Digit_classification
-Under the guidance of Saumitra Lalsare and Yash Patil
+Under the guidance of Prof. Saumitra Lalsare 
 Authors: Sadjyot Gangolli and Sahil Krishndas
